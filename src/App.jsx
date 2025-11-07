@@ -1,6 +1,5 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-import TeamGrid from "./components/TeamGrid";
 import Showcase from "./components/Showcase";
 import Footer from "./components/Footer";
 
@@ -10,7 +9,6 @@ function App() {
       <Navbar />
       <Hero />
       <Showcase />
-      <TeamGrid />
       <Footer />
     </div>
   );
